@@ -8,6 +8,48 @@ Meu foco atual é unir a lógica de sistemas complexos com a criatividade do uni
 
 ---
 
+## Experiência e Estudos de Caso (Repositórios Privados)
+
+Devido à natureza corporativa e à sensibilidade dos dados, o código-fonte dos sistemas abaixo é privado. Abaixo, destaco a arquitetura e o impacto de cada solução desenvolvida:
+
+### 🎓 Ecossistema de Gestão Educacional (Univinte & Corporativo)
+
+*   **ds4 | Gestão Acadêmica Integrada**
+    *   **Stack:** PHP 8.2
+    *   **O Projeto:** Sistema central para a gestão acadêmica da Univinte.
+    *   **Impacto:** Digitalização e automatização de fluxos críticos, incluindo matrículas, negociações financeiras, processos seletivos e integração com o sistema de biblioteca, garantindo alta disponibilidade e segurança dos dados.
+
+*   **EducOS | Ambiente de Gestão para Ensino Superior**
+    *   **Stack:** PHP
+    *   **O Projeto:** Plataforma completa para administração de Instituições de Ensino Superior (IES).
+    *   **Impacto:** Fornece uma infraestrutura sólida para gestão educacional, otimizando rotinas administrativas e acadêmicas através de uma arquitetura escalável.
+
+*   **Coordenador3k | Portfólio de Cursos e Conformidade**
+    *   **Stack:** PHP
+    *   **O Projeto:** Ferramenta de arquivamento e agrupamento de dados de gestão de cursos.
+    *   **Impacto:** Focado estrategicamente em auditorias, o sistema consolida informações essenciais para formar o portfólio dos cursos, garantindo organização e agilidade durante as visitas de avaliação do MEC.
+
+*   **alumni | Rastreamento de Egressos e Empregabilidade**
+    *   **Stack:** PHP
+    *   **O Projeto:** Sistema de acompanhamento de ex-alunos focado na coleta de dados de trajetória profissional.
+    *   **Impacto:** Desenvolvido estritamente para atender às novas exigências regulatórias do Inep 2026, permitindo à instituição mapear a empregabilidade de seus formandos com precisão.
+
+### 📊 Ferramentas de Pesquisa e Dados
+
+*   **eleicoes | Pesquisa e Análise de Candidatos**
+    *   **Stack:** PHP
+    *   **O Projeto:** Aplicação voltada para o levantamento e estruturação de dados.
+    *   **Impacto:** Facilita a compilação, pesquisa e análise de informações de forma rápida e segura.
+
+### 🎮 Desenvolvimento de Jogos
+
+*   **TheChoiceInvaer_godot3 | Game Development**
+    *   **Stack:** Godot Engine 3
+    *   **O Projeto:** Jogo no estilo *shoot 'em up* vertical, inspirado no clássico "River Raid" do Atari.
+    *   **Impacto:** Demonstração de versatilidade em programação orientada a eventos e lógica de jogos, utilizando tecnologias modernas e manipulação de *sprites* atualizadas.
+
+---
+
 ## Minhas Habilidades e Ferramentas
 
 ### 🧠 Inteligência Artificial & Produtividade
