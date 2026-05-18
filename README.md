@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Frasson! 👋
+# Olá, eu sou o Rafael Frasson!
 
 **Desenvolvedor | Entusiasta de Tecnologia | Criador de Soluções**
 
@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolviment
 
 ---
 
-## 🚀 Minhas Habilidades e Ferramentas
+## Minhas Habilidades e Ferramentas
 
 Organizei as tecnologias com as quais trabalho e estudo diariamente para facilitar a visualização do meu perfil:
 
@@ -51,14 +51,7 @@ Organizei as tecnologias com as quais trabalho e estudo diariamente para facilit
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelfrasson&show_icons=true&theme=radium" alt="Estatísticas do Rafael" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfrasson&layout=compact&theme=radium" alt="Linguagens mais usadas" width="48%" />
-</div>
 
 ---
 
