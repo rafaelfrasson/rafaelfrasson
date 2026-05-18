@@ -1,8 +1,10 @@
 # Olá, eu sou o Rafael!
 
-**Mestre em Computação Aplicada | Desenvolvedor | Especialista em IA & IA-Assisted Dev**
+**Mestre em Computação Aplicada | Desenvolvedor | Especialista em IA & IA-Assisted Dev | Game Developer**
 
-Bem-vindo ao meu perfil do GitHub! Direto de Tubarão, SC, atuo na arquitetura e criação de soluções tecnológicas robustas. Como idealizador da ForgeIT, sou apaixonado por engenharia de software, unindo o desenvolvimento tradicional com o poder e a produtividade da Inteligência Artificial. Meu foco atual abrange o desenvolvimento full-stack web e mobile, sempre buscando a máxima eficiência na resolução de problemas complexos.
+Bem-vindo ao meu perfil do GitHub! Direto de Tubarão, SC, atuo na arquitetura e criação de soluções tecnológicas robustas. Como idealizador da ForgeIT, sou apaixonado por engenharia de software, unindo o desenvolvimento tradicional com o poder e a produtividade da Inteligência Artificial. 
+
+Meu foco atual é unir a lógica de sistemas complexos com a criatividade do universo 3D. Minha atuação se divide em duas grandes paixões: a construção de arquiteturas web e corporativas escaláveis (utilizando PHP/Laravel, Java/Spring, Vue.js e C#) e o desenvolvimento de jogos e simulações imersivas (com Unity, Unreal, Godot e Blender). Impulsionado pelo desenvolvimento assistido por IA, busco sempre a máxima performance e inovação em cada linha de código ou polígono renderizado.
 
 ---
 
