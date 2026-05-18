@@ -1,22 +1,26 @@
-# Olá, eu sou o Rafael Frasson!
+# Olá, eu sou o Rafael!
 
-**Desenvolvedor | Entusiasta de Tecnologia | Criador de Soluções**
+**Mestre em Computação Aplicada | Desenvolvedor | Especialista em IA & IA-Assisted Dev**
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e por explorar novas ferramentas. Aqui você encontrará um pouco do meu universo técnico e dos projetos que venho desenvolvendo.
+Bem-vindo ao meu perfil do GitHub! Direto de Tubarão, SC, atuo na arquitetura e criação de soluções tecnológicas robustas. Como idealizador da ForgeIT, sou apaixonado por engenharia de software, unindo o desenvolvimento tradicional com o poder e a produtividade da Inteligência Artificial. Meu foco atual abrange o desenvolvimento full-stack web e mobile, sempre buscando a máxima eficiência na resolução de problemas complexos.
 
 ---
 
 ## Minhas Habilidades e Ferramentas
 
-Organizei as tecnologias com as quais trabalho e estudo diariamente para facilitar a visualização do meu perfil:
+### 🧠 Inteligência Artificial & Produtividade
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+> Especialista em desenvolvimento assistido por IA (AI-Driven Development), automação de fluxos de trabalho e engenharia de prompts para acelerar entregas e criar soluções inteligentes.
 
-### 💻 Front-end & UI/UX
+### 💻 Front-end & Mobile
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![htmx](https://img.shields.io/badge/htmx-%23336699.svg?style=for-the-badge&logo=htmx&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### ⚙️ Back-end & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,19 +43,16 @@ Organizei as tecnologias com as quais trabalho e estudo diariamente para facilit
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🎨 Design & Nuvem
+### 🎨 Design, Nuvem & Outros
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
 ### 📈 Cripto & Web3
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-
-
 
 ---
 
